@@ -1,7 +1,7 @@
 # Image Processing e Machine Learning - Basi e Possibili Applicazioni ai Beni Culturali
 Scuola Universitaria Superiore IUSS Pavia
 <br>
-[Overview](https://github.com/christiansalvatore/machinelearning-culturalheritage-iusspavia/blob/master/L0__overview.pdf) of the program of the course
+[Overview](https://github.com/christiansalvatore/machinelearning-culturalheritage-iusspavia/blob/main/lessons/L0__overview.pdf) of the program of the course
 <br>
 Contact: christian.salvatore@iusspavia.it
 <br>
@@ -26,7 +26,7 @@ Please, leave any comment/suggestion about the course [here]().
 ## Program
 * __Lesson #1 (May 07, 2021 \| 14:00-17:00)__ <br>
 (machine learning and the «data life cycle»; feature extraction; feature selection; classification algorithms: clustering with k-means) <br>
-[__[Slides]__](https://github.com/christiansalvatore/machinelearning-culturalheritage-iusspavia/blob/master/lessons/L1__machinelearning.pdf)
+[__[Slides]__](https://github.com/christiansalvatore/machinelearning-culturalheritage-iusspavia/blob/main/lessons/L1__machinelearning.pdf)
 
 <br>
 
