@@ -5,7 +5,7 @@ Scuola Universitaria Superiore IUSS Pavia
 <br>
 Contact: christian.salvatore@iusspavia.it
 <br>
-Please, leave any comment/suggestion about the course [here]().
+Please, leave any comment/suggestion about the course [here](https://docs.google.com/forms/d/e/1FAIpQLSdfh8cLghznwJbcOp3FPGibvxSLv4nuTp6vvxt16I_msl4F-A/viewform?usp=sf_link).
 
 
 ## Syllabus
@@ -43,4 +43,4 @@ Please, leave any comment/suggestion about the course [here]().
 <br>
 
 ## Comments and suggestions
-Please, leave any comment/suggestion about the course [here]().
+Please, leave any comment/suggestion about the course [here](https://docs.google.com/forms/d/e/1FAIpQLSdfh8cLghznwJbcOp3FPGibvxSLv4nuTp6vvxt16I_msl4F-A/viewform?usp=sf_link).
