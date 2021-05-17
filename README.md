@@ -30,11 +30,13 @@ Please, leave any comment/suggestion about the course [here](https://docs.google
 
 <br>
 
-* __Lesson #2 (May 14, 2021 \| 14:00-17:00)__
+* __Lesson #2 (May 14, 2021 \| 14:00-16:00)__
+(machine learning and the «data life cycle»; classification algorithms: nearest neighbors, decision trees, svm, ensemble of classifiers) <br>
+[__[Slides]__](https://github.com/christiansalvatore/machinelearning-culturalheritage-iusspavia/blob/main/lessons/L1__machinelearning.pdf)
 
 <br>
 
-* __Lesson #3 (May 21, 2021 \| 14:00-16:00)__
+* __Lesson #3 (May 21, 2021 \| 14:00-17:00)__
 
 <br>
 
