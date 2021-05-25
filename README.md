@@ -28,17 +28,14 @@ Please, leave any comment/suggestion about the course [here](https://docs.google
 (machine learning and the «data life cycle»; feature extraction; feature selection; classification algorithms: clustering with k-means) <br>
 [__[Slides]__](https://github.com/christiansalvatore/machinelearning-culturalheritage-iusspavia/blob/main/lessons/L1__machinelearning.pdf)
 
-<br>
-
 * __Lesson #2 (May 14, 2021 \| 14:00-16:00)__
 (machine learning and the «data life cycle»; classification algorithms: nearest neighbors, decision trees, svm, ensemble of classifiers) <br>
 [__[Slides]__](https://github.com/christiansalvatore/machinelearning-culturalheritage-iusspavia/blob/main/lessons/L1__machinelearning.pdf)
 
-<br>
-
 * __Lesson #3 (May 21, 2021 \| 14:00-17:00)__
-
-<br>
+(machine learning and the «data life cycle»; classification algorithms: ensemble of classifiers, random forest, artificial neural networks; validation and classification metrics; machine learning: coding example in Matlab) <br>
+[__[Slides]__](https://github.com/christiansalvatore/machinelearning-culturalheritage-iusspavia/blob/main/lessons/)
+[__[Code]__](https://github.com/christiansalvatore/machinelearning-culturalheritage-iusspavia/blob/main/code/)
 
 * __Lesson #4 (May 28, 2021 \| 14:00-16:00)__
 
