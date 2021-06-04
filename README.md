@@ -38,8 +38,9 @@ Please, leave any comment/suggestion about the course [here](https://docs.google
 [__[Code]__](https://github.com/christiansalvatore/machinelearning-culturalheritage-iusspavia/blob/main/code/)
 
 * __Lesson #4 (May 28, 2021 \| 14:00-16:00)__
-
-<br>
+(deep learning and convolutional neural networks; data acquisition in cultural heritage; applications of image-analysis and machine-learning techniques in cultural heritage; deep learning and neural style transfer: coding example in Python) <br>
+[__[Slides]__](https://github.com/christiansalvatore/machinelearning-culturalheritage-iusspavia/blob/main/lessons/)
+[__[Code]__](https://github.com/christiansalvatore/machinelearning-culturalheritage-iusspavia/blob/main/code/)
 
 ## Comments and suggestions
 Please, leave any comment/suggestion about the course [here](https://docs.google.com/forms/d/e/1FAIpQLSdfh8cLghznwJbcOp3FPGibvxSLv4nuTp6vvxt16I_msl4F-A/viewform?usp=sf_link).
