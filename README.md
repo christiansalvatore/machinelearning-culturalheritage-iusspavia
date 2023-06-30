@@ -1,5 +1,5 @@
 # Image Processing e Machine Learning - Basi e Possibili Applicazioni ai Beni Culturali
-Scuola Universitaria Superiore IUSS Pavia
+Academic year 2021-2022 | Scuola Universitaria Superiore IUSS Pavia
 <br>
 [Overview](https://github.com/christiansalvatore/machinelearning-culturalheritage-iusspavia/blob/main/lessons/L0__overview.pdf) of the program of the course
 <br>
